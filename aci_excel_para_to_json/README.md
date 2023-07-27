@@ -9,4 +9,4 @@ def main()
 filedir
 filename
 
-4.Excecute Python
+4. Excecute Python

@@ -1,4 +1,4 @@
-# Cisco Customer Success Japan Code Exchange
+# Cisco Customer Success Japan Sample Codes
 Sample scripts for Customer Success delivery
 
 You can downloads and use freely.
